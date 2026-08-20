@@ -3,7 +3,7 @@ name: Deploy Leo Connect to GitHub Pages
 on:
   push:
     branches:
-      - feature/auth-profile
+      - main
   workflow_dispatch:
 
 permissions:
